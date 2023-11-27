@@ -3,3 +3,5 @@ In this project, I have meticulously crafted a comprehensive dashboard for Amazo
 
 Link to the Dashboard
 https://public.tableau.com/app/profile/simran.jadhav8500/viz/AmazonPrimeDashboard_16884534592970/Dashboard1?publish=yes
+
+![image](https://github.com/Simrann020/Amazon-Prime-Data-Analysis-/assets/99808220/c892efe7-44ca-4803-95d5-048c781c0d0a)
